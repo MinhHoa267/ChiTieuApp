@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498245237453",
+    "project_id": "chitieuapp-55e50",
+    "storage_bucket": "chitieuapp-55e50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498245237453:android:605a5aa004cf0918238784",
+        "android_client_info": {
+          "package_name": "com.example.chitieuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498245237453-rvaelq029vh8l1bl7vod67rqhtjfu4og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitieuapp",
+            "certificate_hash": "043a00496504e127a6153e628b85700282b4cd1d"
+          }
+        },
+        {
+          "client_id": "498245237453-b5702uppjk9h17peg2lh3khnr7tllrqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5qiDJIsKij7CwrxjCucZ09OwvZ1XMJmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498245237453-b5702uppjk9h17peg2lh3khnr7tllrqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
